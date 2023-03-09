@@ -2,6 +2,7 @@
 
 > creative way to store text as an image
 
+this project started as a sort of challenge from a friend and i decided to come up with a way to create these kinds of images and decode back and forth
 
 ## Encoder.py
 ```sh
